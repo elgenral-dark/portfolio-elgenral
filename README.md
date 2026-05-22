@@ -1,61 +1,75 @@
-# Welcome to your OnSpace project
+<h1 align="center">Hi, I'm Mena Ahmed — Web Developer</h1>
 
-## How can I edit this code?
+<p align="center">
+💻 Advanced Web Developer • 🌐 Building modern web experiences
+</p>
 
-There are several ways of editing your application.
+---
 
-**Use OnSpace**
+## 🧠 About Me
 
-Simply visit the [OnSpace Project]() and start prompting.
+- 🎯 I’m a Web Developer focused on building clean and scalable web applications  
+- ⚙️ Strong understanding of frontend and backend development  
+- 🚀 Always improving my skills and working on real-world projects  
 
-Changes made via OnSpace will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in OnSpace.
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 Projects
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Frontier of Hell — https://github.com/moepoi/Frontier-of-Hell  
+- Kitchen Counts — https://github.com/moepoi/Kitchen_Counts  
+- Nekoya — https://github.com/Nekoya-Site  
+- Easy Learn — https://github.com/Easy-Learn/App/releases/tag/v1.0.1  
+- Neonime App — https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public  
+- Nepgear Bot — https://t.me/NepgearBot  
+- WhoisBot — https://t.me/WhoisBot  
+- Moe API — https://beta.moe.team  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📊 GitHub Stats
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+<p align="center">
+  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi" />
+</p>
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🎬 Top Anime Favorites
 
-**Use GitHub Codespaces**
+- Ze Tian Ji  
+- Toaru Majutsu no Index  
+- Toaru Kagaku no Railgun  
+- Doupo Cangqiong  
+- World Trigger  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📫 Contact Me
 
-This project is built with:
+<p align="center">
+<a href="https://telegram.org"><img src="https://img.shields.io/badge/Telegram-link-blue"></a>
+<a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-contact-orange"></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-profile-blue"></a>
+<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-portfolio-red"></a>
+<a href="https://mastodon.social"><img src="https://img.shields.io/badge/Mastodon-profile-purple"></a>
+</p>
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 👋 Closing
 
-Simply open [OnSpace]() and click on Share -> Publish.
+Thanks for visiting my profile
